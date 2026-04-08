@@ -1,0 +1,4 @@
+column_name,action_applied,was_modified,change_type,details
+native-country,impute_missing,True,value_imputed,857 values imputed
+occupation,impute_missing,True,value_imputed,2809 values imputed
+workclass,impute_missing,True,value_imputed,2799 values imputed

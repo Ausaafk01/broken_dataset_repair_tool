@@ -1,0 +1,4 @@
+column_name,issue_type,recommended_action,strategy,action_priority,confidence,details
+native-country,missing_values,impute_missing,mode,high,0.9,Missing values detected
+occupation,missing_values,impute_missing,mode,high,0.9,Missing values detected
+workclass,missing_values,impute_missing,mode,high,0.9,Missing values detected

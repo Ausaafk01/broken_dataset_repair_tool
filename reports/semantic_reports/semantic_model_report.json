@@ -1,0 +1,26 @@
+{
+    "num_samples": 6,
+    "num_features": 12,
+    "features": [
+        "pct_numeric",
+        "pct_alpha",
+        "pct_missing",
+        "avg_length",
+        "nunique",
+        "has_email",
+        "has_date",
+        "has_numeric_range",
+        "numeric_ratio",
+        "alpha_ratio",
+        "missing_ratio",
+        "unique_count"
+    ],
+    "labels": [
+        "categorical",
+        "email",
+        "identifier",
+        "name",
+        "numeric",
+        "salary"
+    ]
+}

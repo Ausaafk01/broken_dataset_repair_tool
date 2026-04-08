@@ -1,0 +1,56 @@
+[
+    {
+        "step": "01_ingestion",
+        "status": "SUCCESS",
+        "execution_time": 2.7156,
+        "error": null
+    },
+    {
+        "step": "02_profiling",
+        "status": "SUCCESS",
+        "execution_time": 2.4914,
+        "error": null
+    },
+    {
+        "step": "03_semantics",
+        "status": "SUCCESS",
+        "execution_time": 3.0192,
+        "error": null
+    },
+    {
+        "step": "03b_semantics",
+        "status": "SUCCESS",
+        "execution_time": 5.1495,
+        "error": null
+    },
+    {
+        "step": "04_issue_detection",
+        "status": "SUCCESS",
+        "execution_time": 2.3428,
+        "error": null
+    },
+    {
+        "step": "05_repair_planner",
+        "status": "SUCCESS",
+        "execution_time": 2.4498,
+        "error": null
+    },
+    {
+        "step": "06_auto_repair",
+        "status": "SUCCESS",
+        "execution_time": 2.556,
+        "error": null
+    },
+    {
+        "step": "07_audit_logging",
+        "status": "SUCCESS",
+        "execution_time": 2.5374,
+        "error": null
+    },
+    {
+        "step": "08_quality_evaluation",
+        "status": "SUCCESS",
+        "execution_time": 2.5457,
+        "error": null
+    }
+]

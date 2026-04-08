@@ -1,0 +1,14 @@
+{
+    "total_columns": 7,
+    "total_issues": 4,
+    "issues_by_type": {
+        "low_uniqueness": 2,
+        "high_uniqueness": 2
+    },
+    "issues_by_severity": {
+        "medium": 4
+    },
+    "columns_with_issues": 4,
+    "semantic_conflicts": 0,
+    "high_confidence_conflicts": 0
+}

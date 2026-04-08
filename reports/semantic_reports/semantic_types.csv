@@ -1,0 +1,17 @@
+column_name,semantic_type,confidence_score,inference_reason
+id,id,0.95,ID: High uniqueness ratio: 1.0
+age,numeric_discrete,0.85,NUM_DISC: Integer dtype indicates discrete values
+workclass,unknown,0.5,No deterministic rule matched
+fnlwgt,numeric_discrete,0.85,NUM_DISC: Integer dtype indicates discrete values
+education,unknown,0.5,No deterministic rule matched
+educational-num,numeric_discrete,0.85,NUM_DISC: Integer dtype with low cardinality
+marital-status,unknown,0.5,No deterministic rule matched
+occupation,unknown,0.5,No deterministic rule matched
+relationship,unknown,0.5,No deterministic rule matched
+race,unknown,0.5,No deterministic rule matched
+gender,unknown,0.5,No deterministic rule matched
+capital-gain,numeric_discrete,0.85,NUM_DISC: Integer dtype indicates discrete values
+capital-loss,numeric_discrete,0.85,NUM_DISC: Integer dtype indicates discrete values
+hours-per-week,numeric_discrete,0.85,NUM_DISC: Integer dtype indicates discrete values
+native-country,unknown,0.5,No deterministic rule matched
+income,unknown,0.5,No deterministic rule matched

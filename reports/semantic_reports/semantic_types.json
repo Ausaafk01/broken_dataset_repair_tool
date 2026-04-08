@@ -1,0 +1,98 @@
+[
+    {
+        "column_name": "id",
+        "semantic_type": "id",
+        "confidence_score": 0.95,
+        "inference_reason": "ID: High uniqueness ratio: 1.0"
+    },
+    {
+        "column_name": "age",
+        "semantic_type": "numeric_discrete",
+        "confidence_score": 0.85,
+        "inference_reason": "NUM_DISC: Integer dtype indicates discrete values"
+    },
+    {
+        "column_name": "workclass",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "fnlwgt",
+        "semantic_type": "numeric_discrete",
+        "confidence_score": 0.85,
+        "inference_reason": "NUM_DISC: Integer dtype indicates discrete values"
+    },
+    {
+        "column_name": "education",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "educational-num",
+        "semantic_type": "numeric_discrete",
+        "confidence_score": 0.85,
+        "inference_reason": "NUM_DISC: Integer dtype with low cardinality"
+    },
+    {
+        "column_name": "marital-status",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "occupation",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "relationship",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "race",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "gender",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "capital-gain",
+        "semantic_type": "numeric_discrete",
+        "confidence_score": 0.85,
+        "inference_reason": "NUM_DISC: Integer dtype indicates discrete values"
+    },
+    {
+        "column_name": "capital-loss",
+        "semantic_type": "numeric_discrete",
+        "confidence_score": 0.85,
+        "inference_reason": "NUM_DISC: Integer dtype indicates discrete values"
+    },
+    {
+        "column_name": "hours-per-week",
+        "semantic_type": "numeric_discrete",
+        "confidence_score": 0.85,
+        "inference_reason": "NUM_DISC: Integer dtype indicates discrete values"
+    },
+    {
+        "column_name": "native-country",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    },
+    {
+        "column_name": "income",
+        "semantic_type": "unknown",
+        "confidence_score": 0.5,
+        "inference_reason": "No deterministic rule matched"
+    }
+]

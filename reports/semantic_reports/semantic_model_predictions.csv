@@ -1,0 +1,17 @@
+column_name,predicted_type,confidence
+age,numeric,0.9
+capital-gain,numeric,0.9
+capital-loss,numeric,0.9
+education,categorical,0.7
+educational-num,numeric,0.9
+fnlwgt,numeric,0.9
+gender,categorical,0.7
+hours-per-week,numeric,0.9
+id,identifier,0.9
+income,categorical,0.7
+marital-status,categorical,0.7
+native-country,categorical,0.7
+occupation,categorical,0.7
+race,categorical,0.7
+relationship,categorical,0.7
+workclass,categorical,0.7

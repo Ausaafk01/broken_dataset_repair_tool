@@ -1,0 +1,7 @@
+pct_numeric,pct_alpha,pct_missing,avg_length,nunique,has_email,has_date,has_numeric_range,label,column_name,numeric_ratio,alpha_ratio,missing_ratio,unique_count
+0.0,0.0,0.0,7.893,1000.0,0,0,0.0,name,name,,,,
+1.0,0.0,0.0,5.0,990.0,0,0,1.0,salary,salary,,,,
+0.0,0.0,0.0,18.893,1000.0,1,0,0.0,email,email,,,,
+,,,2.893,,0,0,,identifier,id,1.0,0.0,0.0,1000.0
+,,,2.0,,0,0,,numeric,age,1.0,0.0,0.0,42.0
+,,,4.966,,0,0,,categorical,gender,0.0,1.0,0.0,2.0
